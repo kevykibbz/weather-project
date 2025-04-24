@@ -121,13 +121,11 @@ weather-app/
 
 📜 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## ✉️ Contact
+## 📫 Contact
 
-**Your Name**  
+- 🐙 GitHub: [@kevykibbz](https://github.com/kevykibbz)  
+- 🐦 Twitter: [@Kevin36285655](https://x.com/Kevin36285655)  
+- 📧 Email: <kibebekevin@gmail.com>  
+- 💼 LinkedIn: [Kevin Kibebe](https://www.linkedin.com/in/kevin-katenya-ge-114457168/)
 
-- GitHub: [@kevykibbz](https://github.com/kevykibbz)  
-- Twitter: [@Kevin36285655](https://x.com/Kevin36285655)  
-- Email: <kibebekevin@gmail.com>  
-- LinkedIn: [Kevin Kibebe](https://www.linkedin.com/in/kevin-katenya-ge-114457168/)  
-
-🔗 **Project Link**: [https://github.com/kevykibbz/weather project](<https://github.com/kevykibbz/weather> project)
+🔗 **Project Link**: [Weather App](https://github.com/kevykibbz/weather%20project)
