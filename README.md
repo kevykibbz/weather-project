@@ -28,6 +28,11 @@ A beautiful weather application built with Next.js (TypeScript) and Laravel API,
 
 [View Live Demo](https://weather-app-pink-five-41.vercel.app/)
 
+## 🔗 Repositories
+
+- **Frontend (Next.js)**: [weather-app](https://github.com/kevykibbz/weather-aapp)
+- **Backend (Laravel)**: [weather-api](https://github.com/kevykibbz/weather-api)
+
 ## Technologies Used
 
 ### Frontend
