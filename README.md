@@ -30,7 +30,7 @@ A beautiful weather application built with Next.js (TypeScript) and Laravel API,
 
 ## 🔗 Repositories
 
-- **Frontend (Next.js)**: [weather-app](https://github.com/kevykibbz/weather-aapp)
+- **Frontend (Next.js)**: [weather-app](https://github.com/kevykibbz/weather-app)
 - **Backend (Laravel)**: [weather-api](https://github.com/kevykibbz/weather-api)
 
 ## Technologies Used
